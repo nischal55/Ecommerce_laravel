@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.product-slider {
+    overflow-x: auto;
+    -ms-overflow-style: none;  /* for Internet Explorer */
+    scrollbar-width: none;     /* for Firefox */
+}
+
+.product-slider::-webkit-scrollbar {
+    display: none;  /* for Chrome, Safari, and newer Edge */
+}
