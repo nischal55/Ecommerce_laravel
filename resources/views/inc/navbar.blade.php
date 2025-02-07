@@ -1,5 +1,5 @@
 <nav>
-    <div class="bg-blue-800 text-white text-sm w-full items-center h-8 hidden md:flex justify-between ">
+    <div class="bg-gray-100 text-black text-sm w-full items-center h-8 hidden md:flex justify-between ">
         <div class="flex gap-5 mx-4">
             <p>+977 9840151590</p>
             <p>Natole, Lalitpur</p>
